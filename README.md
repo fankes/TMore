@@ -1,7 +1,9 @@
 # TMore
 TMore based depot.
 # 完结撒花，感谢陪伴
-该仓库可供后人继续使用，克隆源码并编译
-仅做开源项目学习使用，禁止任何商业性用途。
+The Open Source Project can be used by future generations, clone the source code and compile
+It is only used for open source projects, and any commercial use is prohibited.
+
+last commit:non-day
 
 # 说鸽就鸽，也是一种不鸽 ——鸽德
